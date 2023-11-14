@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dialog Managers</string>
+    <string name="send_text">Send</string>
+    <string name="save_text">Save</string>
+    <string name="message_title_text">Please enter accomplished activities.</string>
+    <string name="sub_message_text">Press \"ENTER\" to create a line break.</string>
+    <string name="hint_text">Your EOD goes here.</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="add_a_content_text">Add A Content</string>
+    <string name="add_a_date_text">Add A Date</string>
+    <string name="empty_date">[SET THE DATE]</string>
+    <string name="closing_text">Thanks,</string>
+    <string name="name_text">Elgen Prestosa</string>
+    <string name="position_text">IT INTERN</string>
+    <string name="empty_content">[SET THE CONTENT]</string>
+    <string name="greeting_text">Good Day! Here\'s my EOD report for today:</string>
+    <string name="clear_button_desc">Clear</string>
+    <string name="receiver_label">To: </string>
+    <string name="receiver_text">itintern.cebu@tdcx.com</string>
+</resources>
